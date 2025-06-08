@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO_RAW_URL="https://gist.githubusercontent.com/zamkara/9d889924821048b0f746867be202a0ec/raw/59001ecd3a843e04c453d0a8d80b3ab808d6dc08/pixel"
+REPO_RAW_URL="https://gist.githubusercontent.com/zamkara/9d889924821048b0f746867be202a0ec/raw/a3fc5cf289c93d2f3fbec664f409df4bf5febc73/pixel"
 INSTALL_PATH="/usr/local/bin/pixel"
 
 if command -v curl >/dev/null 2>&1; then
