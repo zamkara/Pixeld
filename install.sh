@@ -67,4 +67,4 @@ echo "  pixel purge"
 
 echo
 echo "For more information and updates, visit:"
-echo "  https://github.com/zamkara/pixel"
+echo "https://github.com/zamkara/Pixeld"
