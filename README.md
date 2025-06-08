@@ -28,7 +28,7 @@ Make sure the following dependencies are installed:
 ### 🔁 One-liner Installation (Bash/Zsh/Fish):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zamkara/pixeld/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/zamkara/pixeld/main/install.sh -o install.sh && sh install.sh
 ```
 
 This script:
