@@ -1,4 +1,4 @@
-# Pixel
+# PixelD
 
 `pixeld` is a minimal yet powerful CLI tool to interact with the [PixelDrain](https://pixelddrain.com) file hosting service. It allows you to upload, download, inspect, and manage files from the terminal. This tool is ideal for automation, scripting, or quick file sharing from the command line.
 
