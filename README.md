@@ -125,10 +125,6 @@ It:
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-## 🤝 Contributing
-
-Feel free to fork the repository, submit pull requests, or open issues.
-
 ## 🙇 Credits
 
 Developed by [@zamkara](https://github.com/zamkara)
