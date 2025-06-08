@@ -4,7 +4,7 @@
 
 ## 🌐 Abstract
 
-PixelDrain is a fast and privacy-friendly file sharing service. `pixeld` wraps around its API to allow developers and command-line users to quickly interact with their PixelDrain account without relying on a graphical interface. Built for speed and simplicity, `pixeld` supports multi-file operations and offers a progress bar with upload speed and percentage.
+PixelDrain is a fast and privacy-friendly file sharing service. `pixeld` wraps around its API to allow developers and command-line users to quickly interact with their PixelDrain account without relying on a graphical interface. Built for speed and simplicity, `pixeld` supports multi-file operations.
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ PixelDrain is a fast and privacy-friendly file sharing service. `pixeld` wraps a
 * Download files by ID
 * View file metadata
 * Delete individual or multiple files
-* Purge all files in your account (with confirmation)
+* Purge all (local listed) files in your account
 * Auto-detects and supports Bash, Zsh, and Fish shells
 
 ## 🔧 Requirements
@@ -23,7 +23,7 @@ Make sure the following dependencies are installed:
 * `jq`
 * POSIX-compliant shell (Bash, Zsh, Fish supported)
 
-## 📦 Installation (Automated)
+## 📦 Installation
 
 ### 🔁 One-liner Installation (Bash/Zsh/Fish):
 
